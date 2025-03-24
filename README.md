@@ -1,5 +1,5 @@
 ## Welcome! 👋🏼
 
-I am [Christopher](https://github.com/ChristopherJamesMoore), an undergraduate student from thr UK 🇬🇧 learning full-stack developemnt.
+I am [Christopher](https://www.linkedin.com/in/christopher-moore-1295a6228), an undergraduate student from the UK 🇬🇧 learning full-stack development.
 
-My combination of industry experience in electronic engineering and embedded development with APL and academic background in software, studying in university, have allowed me to form a robust understannding of technologies and their implementations. My future goal is to work in a large software eingineering department where I can meet new people and learn/ grow with my peers whilst developing well built software solutions!
+My background combines industry experience in electronic engineering and embedded development with APL and my academic knowledge in software. This combination has given me a solid understanding of technologies and their implementations. I aim to work in a reputable software engineering department where I can collaborate with new people and learn and grow with my peers while developing well-built software solutions.
