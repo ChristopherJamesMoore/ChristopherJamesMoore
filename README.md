@@ -2,7 +2,7 @@
 I am Christopher, an undergraduate student from the UK learning full-stack development.<br><br>My background combines industry experience in electronic engineering and embedded development with APL and my academic knowledge in software. This combination has given me a solid understanding of technologies and their implementations, which I aim to utilise to land a future role in a Maang comapny where I can collaborate with like-minded people and learn and grow with my peers while developing world-class software solutions.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/moore.plates) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chrismoore2608) 
 
 # 💻 Tech Stack:
