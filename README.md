@@ -1,5 +1,5 @@
 <h2>Hi, I'm Chris </h2>
-<h5>I have a background combining 4 years of industry experience in electronics with embedded development and academic knowledge in software through my ExtDip & BSc. These have given me a solid understanding of technologies and their implementations, which I aim to utilise to land a future role in a swe comapny where I can collaborate with like-minded people and learn and grow with my peers while developing world-class software solutions.</h5>
+<h5>I have a background combining 9 months in application development and academic knowledge in software through my ExtDip & BSc. These have given me a solid understanding of technologies and their implementations, which I aim to utilise to land a future role in a swe comapny where I can collaborate with like-minded people and learn and grow with my peers while developing world-class software solutions.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
