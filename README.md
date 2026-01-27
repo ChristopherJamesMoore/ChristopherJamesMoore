@@ -18,7 +18,7 @@ I’m driven by collaborative environments where I can continue learning, contri
 
 ---
 
-<h3 align="left">🔗 Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/chrismoore2608/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Chris Moore" height="30" width="40" />
@@ -27,7 +27,7 @@ I’m driven by collaborative environments where I can continue learning, contri
 
 ---
 
-<h3 align="left">🛠️ Current Tech Stack</h3>
+<h3 align="left">Current Stack</h3>
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
