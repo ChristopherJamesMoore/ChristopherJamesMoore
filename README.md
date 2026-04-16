@@ -1,4 +1,4 @@
-## Hi, I'm Chris 👋
+## Hi, I'm Christopher Moore
 
 Electronics technician and software engineer based in the UK, working at 
 Apuljack Electronics where I split my time between designing embedded 
@@ -22,5 +22,5 @@ enabled custom hardware.
 - Looking for junior roles in space, aerospace, or embedded systems
 
 ### Tech
-[Badges for: C++, C, Python, TypeScript, React, React Native, 
+[C++, C, Python, TypeScript, React, React Native, 
 FreeRTOS, Docker, Linux, Git]
