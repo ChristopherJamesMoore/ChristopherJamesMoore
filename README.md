@@ -2,8 +2,7 @@
 
 Electronics technician and software engineer based in the UK, working at 
 Apuljack Electronics where I split my time between designing embedded 
-firmware in C++ and building React Native applications for Bluetooth-
-enabled custom hardware.
+firmware in C++ and building React Native applications for Bluetooth-enabled custom hardware.
 
 ### What I work on professionally
 - Production React Native apps with BLE integration (commercial, private)
