@@ -1,25 +1,22 @@
 ## Hi, I'm Christopher Moore
 
-Electronics technician and software engineer based in the UK, working at 
-Apuljack Electronics where I split my time between designing embedded 
-firmware in C++ and building React Native applications for Bluetooth-enabled custom hardware.
+Graduate engineer based in the UK, working at 
+Apuljack Electronics where I split my time between designing and developing internal tools (full-stack) and building mobile applications applications for Bluetooth-enabled custom hardware.
 
 ### What I work on professionally
-- Production React Native apps with BLE integration (commercial, private)
-- Embedded C++ on custom hardware platforms
-- SMD rework and board-level diagnostics down to 0402 packages
-- DevOps on live B2B SaaS products
+- Full-stack web applications
+- React Native apps with BLE integration (commercial, private)
+- Embedded C++ on custom hardware platforms (ATmega328P SoCs)
+- SMD rework down to 0402 packages and board-level diagnostics
+- Disaster recovery protocols for live B2B SaaS products
 
 ### What I work on for fun
-- Autonomous SDR satellite ground station (in progress)
-- STM32 embedded projects with FreeRTOS
-- Exploring space systems and flight software
+- Top-down RTS prototype in MonoGame 3.8 / .NET 8 (in progress)
+- Open-source contribution
 
-### Currently
-- Final year BSc Computer Science, University of Plymouth
+### Formal education
+- BSc Computer Science, University of Plymouth (2:2)
 - Dissertation: blockchain-based tracking application
-- Looking for junior roles in space, aerospace, or embedded systems
 
 ### Tech
-[C++, C, Python, TypeScript, React, React Native, 
-FreeRTOS, Docker, Linux, Git]
+[C++, TypeScript, Docker, MacOS (Unix), Git/ GitHub]
