@@ -1,7 +1,7 @@
 ## Hi, I'm Christopher Moore
 
 Graduate engineer based in the UK, working at 
-Apuljack Electronics where I split my time between designing and developing internal tools (full-stack) and building mobile applications applications for Bluetooth-enabled custom hardware.
+Apuljack Electronics, where I split my time between designing and developing internal tools (full-stack) and building mobile applications for Bluetooth-enabled custom hardware.
 
 ### What I work on professionally
 - Full-stack web applications
