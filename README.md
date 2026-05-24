@@ -15,8 +15,8 @@ Apuljack Electronics, where I split my time between designing and developing int
 - Open-source contribution
 
 ### Formal education
-- BSc Computer Science, University of Plymouth (2:2)
-- Dissertation: blockchain-based tracking application
+- BSc Computer Science, University of Plymouth
+- Dissertation: blockchain-based medication tracking application
 
 ### Tech
 [C++, TypeScript, Docker, MacOS (Unix), Git/ GitHub]
