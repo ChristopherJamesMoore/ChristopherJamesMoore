@@ -60,7 +60,3 @@ I specialize in **systems engineering and software architecture**. My work cente
 </div><a href="https://github.com/christophermoore"></a>
 
 ---
-
-<div align="center">
-  <i>Seeking to build scalable software architectures and distributed systems.</i>
-</div>
