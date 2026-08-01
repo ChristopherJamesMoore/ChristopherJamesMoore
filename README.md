@@ -3,99 +3,62 @@
 # Christopher Moore
 **Software & Systems Engineer** | United Kingdom
 
-*Bridging hardware, firmware, and scalable distributed infrastructure.*
+<a href="https://github.com/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=58A6FF&center=true&vcenter=true&width=600&height=50&lines=%5BSYS_LOG%5D%3A+Bridging+hardware+and+software+systems.;%5BSYS_LOG%5D%3A+Architecting+distributed+infrastructure.;%5BSYS_LOG%5D%3A+Compiling+embedded+C%2B%2B+firmware.;%5BSYS_LOG%5D%3A+Ensuring+operational+resilience." alt="System Status Typing Animation" />
+</a>
 
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YOUR_GITHUB_USERNAME)
+*Currently engineering at **Apuljack Electronics**, building high-integrity platforms that connect physical devices to scalable cloud infrastructure.*
 
 </div>
 
 ---
 
-## // SYSTEM_ARCHITECTURE_FOCUS
+## // ARCHITECTURE & ENGINEERING FOCUS
 
-I specialize in **cross-functional systems engineering**. My work focuses on high-integrity platforms that interface directly with physical hardware and enterprise distributed networks. 
+> I specialize in **cross-functional systems engineering**. My work revolves around designing systems where hardware meets software—ensuring performance, data integrity, and disaster recovery across the entire stack.
 
-* **Hardware-Software Integration:** Developing React Native mobile applications communicating over BLE to ATmega328P microcontrollers; component-level debugging (SMD rework down to 0402).
+* **Hardware-Software Integration:** Developing React Native mobile applications communicating over BLE to ATmega328P microcontrollers. Hands-on component-level debugging, including SMD rework down to 0402.
 * **Distributed Infrastructure:** Designing event-driven backends, enterprise distributed ledgers, and audit-heavy data systems.
-* **Operational Resilience:** Maintaining disaster recovery pipelines and ensuring uptime for live B2B SaaS systems.
+* **Operational Resilience:** Maintaining disaster recovery pipelines and ensuring uptime for live B2B SaaS applications.
 
 ---
 
-## // TECHNICAL_ECOSYSTEM
+## // TECHNICAL STACK
 
-*Click to expand system capabilities:*
+**Systems & Embedded Layer**
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/ATmega328P-00979D?style=for-the-badge&logo=microchip&logoColor=white" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 
-<details>
-<summary><b>Languages & Core Logic</b></summary>
-<br/>
-<ul>
-  <li>C++</li>
-  <li>TypeScript</li>
-  <li>Python</li>
-  <li>SQL</li>
-</ul>
-</details>
+**Distributed & Backend Infrastructure**
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3136?style=for-the-badge&logo=hyperledger&logoColor=white" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 
-<details>
-<summary><b>Embedded & Hardware Layer</b></summary>
-<br/>
-<ul>
-  <li>ATmega328P Architecture</li>
-  <li>BLE (Bluetooth Low Energy) Integration</li>
-  <li>Linux / Unix Systems</li>
-  <li>Component-level SMD Rework</li>
-</ul>
-</details>
-
-<details>
-<summary><b>Distributed & Backend Infrastructure</b></summary>
-<br/>
-<ul>
-  <li>Hyperledger Fabric</li>
-  <li>Docker</li>
-  <li>PostgreSQL</li>
-  <li>Event-Driven System Design</li>
-</ul>
-</details>
-
-<details>
-<summary><b>Frontend & Mobile Platforms</b></summary>
-<br/>
-<ul>
-  <li>React / React Native</li>
-  <li>Node.js</li>
-</ul>
-</details>
+**Application & Mobile Layer**
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 
 ---
 
-## // FEATURED_RESEARCH_AND_PROJECTS
+## // FEATURED RESEARCH & PROJECTS
 
 ### Blockchain-Based Medication Tracking System
-*Undergraduate Dissertation — 81% (First Class)*
+**Undergraduate Dissertation — 81% (First Class Honours, University of Plymouth)**
 
 > **Objective:** Ensure end-to-end pharmaceutical supply chain integrity through a multi-party permissioned ledger.
 
 * Engineered on **Hyperledger Fabric** to build an immutable data provenance pipeline across disparate supply chain nodes.
 * Modeled high-integrity data structures to provide audit trails across multi-party supply chains, eliminating single points of failure.
 
-### Experimental Infrastructure
+### Experimental Infrastructure & Data Systems
 * Currently exploring data observability platforms, event-driven architecture, and blockchain-based provenance systems designed to bridge software services and real-world processes.
 
 ---
 
-## // SYSTEM_ACTIVITY_AND_CONTRIBUTIONS
-
 <div align="center">
-
-*A live animation of my contribution graph:*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <i>Seeking to build systems that connect software, hardware, and real-world workflows.</i>
 </div>
