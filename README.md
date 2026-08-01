@@ -35,7 +35,6 @@ I specialize in **systems engineering and software architecture**. My work cente
 
 **Systems & Embedded Software**
 <a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/ATmega328P-00979D?style=for-the-badge&logo=microchip&logoColor=white" /></a>
 <a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" /></a>
 <a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 
@@ -58,7 +57,7 @@ I specialize in **systems engineering and software architecture**. My work cente
 
 <div align="center">
   <i>Seeking opportunities to build scalable software architectures and enterprise distributed systems.</i>
-</div><a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+</div><a href="https://github.com/christophermoore"></a>
 
 ---
 
