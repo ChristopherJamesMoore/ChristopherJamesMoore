@@ -61,21 +61,6 @@ I specialize in **systems engineering and software architecture**. My work cente
 
 ---
 
-## // FEATURED RESEARCH & PROJECTS
-
-### Blockchain-Based Medication Tracking System
-**Undergraduate Dissertation — 81% (First Class Honours, University of Plymouth)**
-
-> **Objective:** Ensure end-to-end pharmaceutical supply chain integrity through a multi-party permissioned ledger.
-
-* Engineered on **Hyperledger Fabric** to build an immutable data provenance pipeline across disparate supply chain nodes.
-* Modeled high-integrity data structures to provide audit trails across multi-party supply chains, eliminating single points of failure.
-
-### Experimental Infrastructure & Data Systems
-* Currently exploring data observability platforms, event-driven architecture, and blockchain-based provenance systems designed to build trust in complex, high-integrity datasets.
-
----
-
 <div align="center">
   <i>Seeking to build scalable software architectures and distributed systems.</i>
 </div>
