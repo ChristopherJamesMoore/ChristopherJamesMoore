@@ -1,62 +1,101 @@
-# Hi, I'm Christopher Moore
+<div align="center">
 
-Graduate software engineer based in the UK, currently working at **Apuljack Electronics**, where I split my time between building internal full-stack tooling and developing mobile applications for custom Bluetooth-enabled hardware systems.
+# Christopher Moore
+**Software & Systems Engineer** | United Kingdom
 
----
+*Bridging hardware, firmware, and scalable distributed infrastructure.*
 
-## What I work on professionally
+<br/>
 
-* Full-stack web application development (internal tools & production systems)
-* React Native mobile applications with BLE integration for embedded hardware products
-* Embedded C++ development on ATmega328P-based systems
-* Hardware-level debugging, including SMD rework down to 0402 components
-* Operational resilience and disaster recovery for live B2B SaaS systems
-* Cross-functional engineering between software, firmware, and hardware systems
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
 
 ---
 
-## What I’m currently exploring
+## // SYSTEM_ARCHITECTURE_FOCUS
 
-* Blockchain infrastructure and enterprise distributed systems
-* Event-driven system design and data observability platforms
-* Backend architecture for large-scale or audit-heavy systems
-* Data modelling for complex, high-integrity datasets
-* Systems that bridge software services and real-world processes
+I specialize in **cross-functional systems engineering**. My work focuses on high-integrity platforms that interface directly with physical hardware and enterprise distributed networks. 
 
----
-
-## Personal / side projects
-
-* Experimental work on blockchain-based data tracking and provenance systems
-* Open-source contributions (selective / ongoing)
+* **Hardware-Software Integration:** Developing React Native mobile applications communicating over BLE to ATmega328P microcontrollers; component-level debugging (SMD rework down to 0402).
+* **Distributed Infrastructure:** Designing event-driven backends, enterprise distributed ledgers, and audit-heavy data systems.
+* **Operational Resilience:** Maintaining disaster recovery pipelines and ensuring uptime for live B2B SaaS systems.
 
 ---
 
-## Formal education
+## // TECHNICAL_ECOSYSTEM
 
-* BSc Computer Science, University of Plymouth
-* Dissertation: blockchain-based end-to-end medication tracking system (81%)
+*Click to expand system capabilities:*
+
+<details>
+<summary><b>Languages & Core Logic</b></summary>
+<br/>
+<ul>
+  <li>C++</li>
+  <li>TypeScript</li>
+  <li>Python</li>
+  <li>SQL</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Embedded & Hardware Layer</b></summary>
+<br/>
+<ul>
+  <li>ATmega328P Architecture</li>
+  <li>BLE (Bluetooth Low Energy) Integration</li>
+  <li>Linux / Unix Systems</li>
+  <li>Component-level SMD Rework</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Distributed & Backend Infrastructure</b></summary>
+<br/>
+<ul>
+  <li>Hyperledger Fabric</li>
+  <li>Docker</li>
+  <li>PostgreSQL</li>
+  <li>Event-Driven System Design</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Frontend & Mobile Platforms</b></summary>
+<br/>
+<ul>
+  <li>React / React Native</li>
+  <li>Node.js</li>
+</ul>
+</details>
 
 ---
 
-## Technical skills
+## // FEATURED_RESEARCH_AND_PROJECTS
 
-* C++
-* TypeScript
-* Python (increasing focus)
-* Docker
-* React / React Native
-* PostgreSQL (learning / applied in projects)
-* Linux / Unix systems
-* Git / GitHub
-* Hyperleder Fabric
+### Blockchain-Based Medication Tracking System
+*Undergraduate Dissertation — 81% (First Class)*
+
+> **Objective:** Ensure end-to-end pharmaceutical supply chain integrity through a multi-party permissioned ledger.
+
+* Engineered on **Hyperledger Fabric** to build an immutable data provenance pipeline across disparate supply chain nodes.
+* Modeled high-integrity data structures to provide audit trails across multi-party supply chains, eliminating single points of failure.
+
+### Experimental Infrastructure
+* Currently exploring data observability platforms, event-driven architecture, and blockchain-based provenance systems designed to bridge software services and real-world processes.
 
 ---
 
-## Interests
+## // SYSTEM_ACTIVITY_AND_CONTRIBUTIONS
 
-* Distributed systems design
-* Infrastructure engineering
-* Blockchain data systems (especially enterprise/ permissioned networks)
-* Embedded systems
-* Building systems that connect software, hardware, and real world workflows
+<div align="center">
+
+*A live animation of my contribution graph:*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
