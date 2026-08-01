@@ -43,7 +43,7 @@ I specialize in **systems engineering and software architecture**. My work cente
 ## Featured Projects & Research
 
 ### Blockchain-Based Medication Tracking System
-**BSc Computer Science Dissertation — First Class Honours (81%), University of Plymouth**
+**BSc Computer Science Dissertation (80%), University of Plymouth**
 
 **Objective:** Ensure end-to-end pharmaceutical supply chain integrity through a multi-party permissioned ledger.
 
