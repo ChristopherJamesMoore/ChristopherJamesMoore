@@ -1,47 +1,60 @@
 <div align="center">
 
 # Christopher Moore
-**Software & Systems Engineer** | UK
+**Computer Science Graduate | Hardware & Software | Somerset, UK**
 
-*Currently engineering at **Apuljack Electronics**, building scalable internal tooling, robust backend infrastructure, and integrations with custom embedded hardware.*
+*Five years of component-level electronics diagnostics at **Apuljack Electronics**, now moving into silicon and post-silicon validation.*
 
 </div>
 
 ---
 
-## Professional Focus & Expertise
+## About
 
-I specialize in **systems engineering and software architecture**. My work centers on designing resilient, high-integrity software systems—spanning low-level embedded C++, enterprise distributed networks, and disaster recovery pipelines.
+My background sits in the gap between hardware and software. I combine hands-on fault-finding on electronic assemblies with a BSc in Computer Science, and I'm especially interested in high-performance desktop and server processors, from CPU architecture and memory subsystems to the validation that proves they are stable and correct.
 
-* **Distributed Infrastructure:** Architecting event-driven backends, enterprise distributed ledgers, and audit-heavy data systems.
-* **Operational Resilience:** Maintaining disaster recovery pipelines, implementing data observability, and ensuring high availability for live B2B SaaS applications.
-* **Full-Stack Development:** Building end-to-end web applications and internal production tools to streamline business operations and data management.
+I enjoy the methodical side of debugging: reproducing a fault, narrowing it down and finding the root cause.
+
+* **Hardware:** Component-level fault diagnosis, multimeter and oscilloscope measurement, PCB track repair, SMD and through-hole soldering, Bluetooth Low Energy integration on custom PCBs.
+* **Software:** Python and C++, with TypeScript for production web tooling. Git and Linux day to day.
+* **Testing:** Automated testing and validation in my own projects (unit, schema and end-to-end tests), and test procedure tooling used for repair work.
+* **Currently learning:** Bare-metal C, Arm architecture, computer architecture, and debugging with GDB and SWD.
 
 ---
 
 ## Tech Stack
 
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3136?style=for-the-badge&logo=hyperledger&logoColor=white" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" /></a>
-<a href="https://github.com/christophermoore"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ---
 
-## Featured Projects & Research
+## Featured Projects
 
-### Blockchain-Based Medication Tracking System
-**BSc Computer Science Dissertation (80%), University of Plymouth**
+<!--
+UNCOMMENT AND FILL IN ONCE THE PROJECT IS BUILT AND PUBLISHED:
 
-**Objective:** Ensure end-to-end pharmaceutical supply chain integrity through a multi-party permissioned ledger.
+### Bare-Metal Validation Framework (Raspberry Pi Pico)
+Bare-metal C tests running on an Arm Cortex-M33 microcontroller, with a Python and pytest framework that flashes the board, runs the test suite and reports regressions. Debugged with GDB over SWD and a logic analyser.
+Repo: [link]
+-->
 
-* Engineered on **Hyperledger Fabric** to build an immutable data provenance pipeline across disparate supply chain nodes.
-* Designed high-integrity data models to provide secure audit trails across multi-party supply chains, eliminating single points of failure.
+### LedgRx: Blockchain Pharmaceutical Supply Chain Tracking
+**BSc Computer Science Dissertation (81%), University of Plymouth**
+
+A permissioned ledger that tracks pharmaceutical supply chain integrity across multiple parties.
+
+* Built on **Hyperledger Fabric**, enforcing controlled state transitions so records can't move into an invalid state.
+* Implemented FIDO2/WebAuthn passkey authentication and zero-trust API security, including single-use challenges, JWT blacklisting and TLS-enforced database transport.
+* Designed audit trails that make every change traceable.
+
+### Axiom: Guided Test Procedure Platform
+A test procedure platform for repair and test work at Apuljack Electronics, with a rich-text editor, image annotation, auto-saving and shared fix libraries, plus strict access controls and audit logging.
+
+### Atlas: Operations & Repair Platform
+A platform covering repair workflows, WooCommerce sync, Xero invoicing and SLA analytics, with an automated CI pipeline (Vitest, Zod, Playwright) reaching 66% unit test coverage.
